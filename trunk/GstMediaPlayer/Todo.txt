@@ -1,0 +1,8 @@
+- Create a sample application (xul + video)
+- Create Mac Port
+- Create Windows port
+
+- Create most basic XULApplication
+- Find out what the possibilites are of NPAPI vs XPCOM.
+- Create a Firebreath experiment (NPAPI).
+- Or simply use the Songbird approach
