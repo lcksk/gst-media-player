@@ -1,3 +1,5 @@
+- Create XPCOM Video sample
+
 - Create a sample application (xul + video)
 - Create Mac Port
 - Create Windows port
