@@ -92,7 +92,7 @@ namespace Gst
     {
         NSView * view = (NSView *)mNSView;
         if (view)
-		{
+		    {
             if (inFullscreen)
             {
                 LogInfo("Go full screen");
@@ -103,7 +103,7 @@ namespace Gst
                 LogInfo("Leave full screen");
                 [view exitFullScreenModeWithOptions:nil];
             }
-		}
+		    }
     }
 
 
