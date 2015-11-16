@@ -1,0 +1,1 @@
+A media player on top of GStreamer.
